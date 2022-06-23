@@ -1,0 +1,16 @@
+body img {
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+}
+li img {
+    height: 300px;
+    display: inline;
+}
